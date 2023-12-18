@@ -17,7 +17,7 @@ body {
   }
   
   .dropdown {
-    float: left;
+    float: inline-start;
     overflow: hidden;
   }
   
